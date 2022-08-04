@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">E-Commerce</string>
+    <string name="main_name">ВахтоМетр</string>
+    <string name="first_date_text">Выберете дату заезда</string>
+    <string name="second_date_text">Выберете дату выезда</string>
+</resources>
